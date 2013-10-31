@@ -1,0 +1,38 @@
+/* Put your CSS here */
+html, body {
+    margin: 20px;
+    background: url(img/wavegrid.png);
+}
+
+.team-view {
+	text-align: center;
+}
+
+.banner h1 {
+	color: #FFF;
+}
+
+.banner img {
+	margin: 15px;
+	background-color: white;
+}
+
+ul {
+	margin: 0;
+	padding-left: 0px;
+}
+
+ul li {
+	font-size: 18px;
+	padding-bottom: 5px;
+	list-style-type: none;
+}
+
+ul li a {
+	color: #666;
+}
+
+ul li a:hover {
+	text-decoration: none;
+	color: #999;
+}
